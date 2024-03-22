@@ -33,7 +33,7 @@ These results are based on the validation data, means there are several similar 
 
 ## Overall mAP and mAP for each category
 
-![image](https://github.com/arfashaha/FurnitureDetection/assets/64786796/b9498730-c617-407b-b0c0-49079704f6bf)
+![image](https://github.com/arfashaha/FurnitureDetection/assets/64786796/b86ef5a6-0b7a-4fad-bd93-801ab4ebda08)
 
 # How to Use
 
@@ -45,10 +45,8 @@ There are various models that are provided here in Pytorch format (.pt). The ONN
 
 ## Results in NVIDIA GeForce RTX 3050Ti
 
-![image](https://github.com/arfashaha/FurnitureDetection/assets/64786796/9f9c3942-6509-49c5-9724-b061e856ee98)
-
+![image](https://github.com/arfashaha/FurnitureDetection/assets/64786796/246371f0-7514-440c-bd87-2dcb53d72b13)
 
 ## Results in NVIDIA Jetson Xavier
-
 
 ![Model M Inference Xavier](https://github.com/arfashaha/FurnitureDetection/assets/64786796/5c9432a1-812b-4ef5-a6e0-0ac12e83e6d2)
