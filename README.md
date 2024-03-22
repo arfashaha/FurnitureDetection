@@ -20,7 +20,7 @@ There are a total of 10,372 images with 17,096 annotations, comprising 10 classe
 
 These results are based on the validation data, means there are several similar images.
 | Model | Precision | Recall  | mAP | Inference Time  |
-| ------------- |:-------------:| -----:|:-------------:| -----:|
+| ------------- |:-------------:| -----:|:-----:| -----:|
 | M | 95.1% | 88.1% | 93.8% | 2.0 ms |
 | L | 95.7% | 88.0% | 94.0% | 3.4 ms |
 | X | 96.6% | 88.5% | 94.4% | 4.8 ms |
