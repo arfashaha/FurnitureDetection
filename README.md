@@ -1,5 +1,4 @@
 # Furniture Detection
-Programs and Deep Learning Models for detecting Indoor Furniture
 
 Furniture detection involves the object detection technology to predict various classes of indoor furnitures. There are 10 classes detected in this experiment, starting from bed, bookcase, chair, chest of drawers, cabinet, infant bed, stool, wardrobe, sofa bed, and table. The detection process utilize deep learning method using YOLOv8 architecture. There are 5 different pre-trained models to be used in this experiment, the n, s, m, l, and x version of YOLOv8
 
