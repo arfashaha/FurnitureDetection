@@ -42,10 +42,12 @@ There are various models that are provided here in Pytorch format (.pt). The ONN
 
 # Results Example
 
-## Results in NVIDIA GeForce RTX 3050Ti
+## Results in NVIDIA GeForce RTX 3050Ti (using Pytorch)
 
 ![image](https://github.com/arfashaha/FurnitureDetection/assets/64786796/246371f0-7514-440c-bd87-2dcb53d72b13)
 
-## Results in NVIDIA Jetson Xavier
+## Results in NVIDIA Jetson Xavier (using TensorRT)
 
 ![Model M Inference Xavier](https://github.com/arfashaha/FurnitureDetection/assets/64786796/5c9432a1-812b-4ef5-a6e0-0ac12e83e6d2)
+
+It can be seen that by using tensorRT, the performance in edge devices can still perform as good as in other GPU by compromising a little mAP reduction.
